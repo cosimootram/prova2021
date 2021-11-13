@@ -13,4 +13,7 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Hello Universe");
     }
+     public static void salute(String value){
+         System.out.println("Hello "+value);
+     }
 }
